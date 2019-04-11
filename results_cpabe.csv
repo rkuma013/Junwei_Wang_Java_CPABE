@@ -1,0 +1,36 @@
+Benchmarking Results for 10 Attributes for 10 iterations
+keygen,encryption,decryption
+476	356	66
+488	364	90
+469	356	58
+502	341	57
+464	356	63
+479	343	94
+463	354	91
+479	345	60
+459	373	70
+485	363	65
+Benchmarking Results for 20 Attributes for 10 iterations
+keygen,encryption,decryption
+475	313	59
+454	327	59
+456	342	64
+463	338	56
+439	324	64
+468	356	61
+475	344	58
+470	373	59
+458	344	57
+476	348	63
+Benchmarking Results for 30 Attributes for 10 iterations
+keygen,encryption,decryption
+454	342	61
+450	342	58
+491	376	67
+453	320	57
+478	348	58
+471	333	63
+466	322	59
+458	321	57
+476	325	57
+475	321	55

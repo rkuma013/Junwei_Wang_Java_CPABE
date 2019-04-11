@@ -1,0 +1,36 @@
+Benchmarking Results for 10 Attributes for 10 iterations
+keygen,encryption,decryption
+188	170	17
+191	185	18
+253	194	17
+230	178	17
+220	179	18
+209	194	20
+201	174	18
+209	182	16
+198	190	17
+208	180	17
+Benchmarking Results for 20 Attributes for 10 iterations
+keygen,encryption,decryption
+197	175	17
+222	177	19
+229	191	17
+223	187	18
+203	184	20
+204	182	18
+226	176	18
+201	188	18
+197	181	18
+220	175	18
+Benchmarking Results for 30 Attributes for 10 iterations
+keygen,encryption,decryption
+205	179	17
+231	189	18
+218	187	19
+215	193	20
+218	178	18
+204	179	18
+208	192	17
+220	188	19
+218	189	19
+215	187	18
