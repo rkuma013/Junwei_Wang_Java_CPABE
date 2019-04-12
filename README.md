@@ -1,6 +1,9 @@
 # CPABE by Junwei_Wang
 
-This is a **Java** implementation of Ciphertext-Policy Attribute Based Encryption.
+This is a **Java** implementation of Ciphertext-Policy Attribute Based Encryption. This implementation was tested to be working in Ubuntu 16.04. The benchmark results in this repository were run in a machine with the following specifications: 
+
+- Processor: Intel® Core™ i7-4790 CPU @ 3.60GHz × 8 
+- Memory: 15.6 GiB
 
 For installing cpabe, follow the  instructions given in the build.md file (https://github.com/junwei-wang/cpabe/blob/master/BUILD.md).
 
